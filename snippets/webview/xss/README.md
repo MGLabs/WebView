@@ -11,6 +11,5 @@ Simulazione di input utente in un campo di testo il cui output viene quindi inte
 OWASP Sanitizer e htmlEncode().
 
 ### 🗒️ Analisi completa
-Link alla pagina Notion.
+Link alla pagina su [GitBook](https://open-2v.gitbook.com/url/preview/site_6HbLD/~/revisions/RwwxDA0T0w30nCIisQxw/webview-gli-attacchi-xss-cve-2020-6506).
 
-https://github.com/MGLabs/MGCyber/blob/main/snippets/webview/xss/VulnerableWebView.java
