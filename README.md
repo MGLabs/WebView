@@ -29,11 +29,9 @@ Ogni analisi ha una propria sottocartella in `/snippets`, con:
 
 ---
 
-### 📚Analisi complete su Notion
+### 📚Analisi complete su GitBook
 
-Le analisi dettagliate — teoria, screenshot, diagrammi, spiegazioni di attacchi e mitigazioni — sono disponibili sul mio sito:
-
-https://mglabstudio.com
+Le analisi dettagliate — teoria, screenshot, diagrammi, spiegazioni di attacchi e mitigazioni — sono disponibili sul [mio GitBook](https://open-2v.gitbook.com/url/preview/site_6HbLD/~/revisions/RwwxDA0T0w30nCIisQxw)
 
 ---
 
